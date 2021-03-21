@@ -16,7 +16,7 @@ if __name__ == '__main__':
         y += [y[0]]
         plt.plot(x, y, 'o-')
 
-    plt.title('www.PEQNP.science\n{} : {} / {}'.format(loc, len(data), total))
+    plt.title('www.PEQNP.com\n{} : {} / {}'.format(loc, len(data), total))
 
     plt.savefig('cvrp.png')
 
