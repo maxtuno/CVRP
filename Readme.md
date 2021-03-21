@@ -1,6 +1,6 @@
 # CVRP SOLVER
 
-A simple CVRP solver based on O. Riveros HESS black-box algorithm www.peqnp.com 
+A simple CVRP solver (approximator) based on O. Riveros HESS black-box algorithm www.peqnp.com 
 
 	Licence BSD
 
