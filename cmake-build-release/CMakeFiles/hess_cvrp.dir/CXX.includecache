@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/peqnp/Documents/GitHub/CVRP/hess_cvrp.cc
+iostream
+-
+vector
+-
+fstream
+-
+numeric
+-
+cmath
+-
+algorithm
+-
+sstream
+-
+
