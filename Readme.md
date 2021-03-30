@@ -23,7 +23,3 @@ A simple CVRP solver (approximator) based on O. Riveros HESS black-box algorithm
     python3 plot.py
 
 ![alt text](https://raw.githubusercontent.com/maxtuno/CVRP/main/bin/cvrp.png?raw=true)
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maxtuno&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
-/>
